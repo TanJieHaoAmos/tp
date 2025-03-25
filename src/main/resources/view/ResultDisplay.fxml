@@ -5,5 +5,5 @@
 
 <StackPane fx:id="placeHolder" styleClass="pane-with-border" xmlns="http://javafx.com/javafx/17"
     xmlns:fx="http://javafx.com/fxml/1">
-  <TextArea fx:id="resultDisplay" editable="false" styleClass="result-display" text="Welcome to FinClient!"/>
+  <TextArea fx:id="resultDisplay" editable="false" styleClass="result-display" text="Welcome to FinClient! For help, please type help or press Fn + F1."/>
 </StackPane>

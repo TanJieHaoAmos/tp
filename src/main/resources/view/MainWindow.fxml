@@ -26,7 +26,7 @@
       </stylesheets>
 
       <VBox>
-        <HBox spacing= "0" alignment="CENTER_LEFT" styleClass="hbox-menubar-data" >
+        <HBox spacing= "10" alignment="CENTER_LEFT" styleClass="hbox-menubar-data" >
           <MenuBar fx:id="menuBar" VBox.vgrow="NEVER" >
             <Menu mnemonicParsing="false" text="File">
               <MenuItem fx:id="exitMenuItem" mnemonicParsing="false" onAction="#handleExit" text="Exit" />
@@ -35,7 +35,7 @@
               <MenuItem fx:id="helpMenuItem" mnemonicParsing="false" onAction="#handleHelp" text="Help" />
             </Menu>
           </MenuBar>
-          <Label fx:id="dataLabel" text="Stocks/Packages" styleClass="data-label" HBox.hgrow="NEVER"  />
+          <Label fx:id="dataLabel" text="Stocks/Packages" styleClass="data-label" HBox.hgrow="NEVER" textAlignment="LEFT" />
         </HBox>
         <StackPane VBox.vgrow="NEVER" fx:id="commandBoxPlaceholder" styleClass="pane-with-border">
           <padding>
