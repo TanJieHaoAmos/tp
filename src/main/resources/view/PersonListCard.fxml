@@ -28,14 +28,16 @@
         <Label fx:id="name" text="\$first" styleClass="cell_big_label" />
       </HBox>
       <HBox spacing="30">
-        <VBox minWidth="300" maxWidth="300">
+        <VBox minWidth="200" maxWidth="200">
           <FlowPane fx:id="tags" />
-          <Label fx:id="phone" styleClass="cell_small_label" text="\$phone" wrapText="true" />
-          <Label fx:id="address" styleClass="cell_small_label" text="\$address" wrapText="true" />
-          <Label fx:id="email" styleClass="cell_small_label" text="\$email" wrapText="true" />
+          <Label fx:id="phone" styleClass="cell_small_label" text="$phone" wrapText="true" />
+          <Label fx:id="address" styleClass="cell_small_label" text="$address" wrapText="true" />
+          <Label fx:id="email" styleClass="cell_small_label" text="$email" wrapText="true" />
         </VBox>
-        <VBox minWidth="100" maxWidth="150">
-          <Label fx:id="remark" styleClass="cell_small_label" text="\$remark" wrapText="true" />
+        <!-- Vertical Line Separator -->
+        <Region minWidth="4" maxWidth="4" style="-fx-background-color: lightgrey" />
+        <VBox minWidth="300" maxWidth="300">
+          <Label fx:id="remark" styleClass="cell_small_label" text="$remark" wrapText="true" />
         </VBox>
       </HBox>
     </VBox>
