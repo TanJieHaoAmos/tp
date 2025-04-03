@@ -46,7 +46,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "developer-guide": "Developer Guide",
+        "finclient-developer-guide": "FinClient Developer Guide",
         "table-of-contents": "Table of contents",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
@@ -123,7 +123,6 @@
         "adding-a-person-add": "Adding a person : add",
         "listing-all-persons-list": "Listing all persons : list",
         "editing-a-person-edit": "Editing a person : edit",
-        "locating-persons-by-tag-find": "Locating persons by tag : find",
         "locating-persons-by-name-find": "Locating persons by name : find",
         "deleting-a-person-delete": "Deleting a person : delete",
         "hiding-a-person-hide": "Hiding a person : hide",
@@ -185,7 +184,8 @@
         "introduction": "Introduction",
         "example-usages": "Example usages:",
         "value-proposition": "Value Proposition",
-        "acknowledgment-and-contribution": "Acknowledgment and Contribution"
+        "acknowledgment-and-contribution": "Acknowledgment and Contribution",
+        "feedback": "Feedback"
       },
       "headingKeywords": {}
     },
