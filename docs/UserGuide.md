@@ -481,11 +481,15 @@ Furthermore, certain edits can cause FinClient to behave in unexpected ways (e.g
   <summary>What is the Call Auction calculator?</summary>
   <p><em>This feature helps estimate clearing prices for limit orders. Refer to the "Limit orders and Call Auction calculator" section for details.</em></p>
 </details>
-<details> <summary>Why can I not include '+' symbol when dialing international numbers?</summary> <p><em><code>+</code> symbol is just a placeholder for your country's international dialing prefix.</em></p> <p>You can replace <code>+</code> with the appropriate digits for your region:</p>
-In the <strong>US/Canada</strong>, use <code>011</code><br>
-In the <strong>UK</strong>, use <code>00</code><br>
-In <strong>Australia</strong>, use <code>0011</code><br>
-<p>For example, instead of dialing <code>+44 20 7946 0958</code> (UK), you can dial <code>011 44 20 7946 0958</code> if you're in the US.</p> <p>This is why symbols are not allowed when you write phone numbers onto FinClient.</p> </details>
+<details>
+  <summary>Why can I not include '+' symbol when adding international numbers?</summary>
+  <p><em><code>+</code> symbol is just a placeholder for your country's international dialing prefix. You can replace <code>+</code> with the appropriate digits for your region: 
+    In the <strong>US/Canada</strong>, use <code>011</code>
+    In the <strong>UK</strong>, use <code>00</code>
+    In <strong>Australia</strong>, use <code>0011</code>
+    For example, instead of adding <code>+44 20 7946 0958</code> (UK), you can add <code>011442079460958</code> if you're in the US. This is why symbols are not allowed when you write phone numbers onto FinClient.
+    </em></p>
+</details>
 <br>
 
 <!-- FAQ: Data Management -->
