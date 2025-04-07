@@ -42,7 +42,6 @@
     * [Adding a Person]({{ baseUrl }}/UserGuide.html#adding-a-person-add)
     * [Listing all Persons]({{ baseUrl }}/UserGuide.html#listing-all-persons-list)
     * [Editing a Person]({{ baseUrl }}/UserGuide.html#editing-a-person-edit)
-    * [Locating Persons by Tag]({{ baseUrl }}/UserGuide.html#locating-persons-by-tag-find)
     * [Locating Persons by Name]({{ baseUrl }}/UserGuide.html#locating-persons-by-name-find)
     * [Deleting a Person]({{ baseUrl }}/UserGuide.html#deleting-a-person-delete)
     * [Hiding a Person]({{ baseUrl }}/UserGuide.html#hiding-a-person-hide)
