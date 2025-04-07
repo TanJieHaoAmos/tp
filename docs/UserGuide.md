@@ -190,7 +190,7 @@ Example input:
 Here is a complete reference table of all arguments that add command accept:
 
 | Argument | Prefix | Compulsory? | Allowed Count | Special Remarks |
-|  | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Name | n/ | Yes | 1 | Must be alphabetic without special characters|
 | Phone | p/ | Yes | 1-3 | Digits only (without space or special character)|
 | Email | e/ | Yes | 1 | Valid email format |
@@ -199,8 +199,8 @@ Here is a complete reference table of all arguments that add command accept:
 | Remark | r/ | No | 1 | |
 | Timestamp | by/ | No | 1 | If included, must be placed right after r/|
 | Company| c/ | No | 1 | |
-| Job | j/ | No | 1 | |
-| Stock Platform | s/ | No | 1 | |
+| Job | j/ | No | 1 | | |
+| Stock Platform | s/ | No | 1 |
 | Networth | $/ | No | 1 | Must be valid positive integers, or networth brackets specified [here](#sorting-contacts-sort) |
 
 ### Listing all persons : `list`
