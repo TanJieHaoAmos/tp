@@ -401,13 +401,13 @@ The following activity diagram summarizes what happens when a user executes a ne
 **Aspect: How undo & redo executes:**
 
 * **Alternative 1 (current choice):** Saves the entire address book.
-  * Pros: Easy to implement.
-  * Cons: May have performance issues in terms of memory usage.
+    * Pros: Easy to implement.
+    * Cons: May have performance issues in terms of memory usage.
 
 * **Alternative 2:** Individual command knows how to undo/redo by
   itself.
-  * Pros: Will use less memory (e.g. for `delete`, just save the person being deleted).
-  * Cons: We must ensure that the implementation of each individual command are correct.
+    * Pros: Will use less memory (e.g. for `delete`, just save the person being deleted).
+    * Cons: We must ensure that the implementation of each individual command are correct.
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -786,11 +786,11 @@ testers are expected to do more *exploratory* testing.
 ### Sorting Contacts
 
 1. Sorting Contacts
-   2. Prerequisite: Have at least two contacts in FinClient.
-   3. Test case: `sort name`<br>
-     Expected: Contacts are sorted alphabetically by name.
-   4. Test case: `sort networth`<br>
-     Expected: Contacts are sorted according to their networth.
+   1. Prerequisite: Have at least two contacts in FinClient.
+   2. Test case: `sort name`<br>
+       Expected: Contacts are sorted alphabetically by name.
+   3. Test case: `sort networth`<br>
+       Expected: Contacts are sorted according to their networth.
 
 ### Clearing all contacts
 
