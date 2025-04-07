@@ -42,7 +42,6 @@
     * [Adding a Person]({{ baseUrl }}/UserGuide.html#adding-a-person-add)
     * [Listing all Persons]({{ baseUrl }}/UserGuide.html#listing-all-persons-list)
     * [Editing a Person]({{ baseUrl }}/UserGuide.html#editing-a-person-edit)
-    * [Locating Persons by Tag]({{ baseUrl }}/UserGuide.html#locating-persons-by-tag-find)
     * [Locating Persons by Name]({{ baseUrl }}/UserGuide.html#locating-persons-by-name-find)
     * [Deleting a Person]({{ baseUrl }}/UserGuide.html#deleting-a-person-delete)
     * [Hiding a Person]({{ baseUrl }}/UserGuide.html#hiding-a-person-hide)
@@ -53,12 +52,12 @@
     * [Exiting the Program]({{ baseUrl }}/UserGuide.html#exiting-the-program-exit)
     * [Saving the Data]({{ baseUrl }}/UserGuide.html#saving-the-data)
     * [Editing the Data File]({{ baseUrl }}/UserGuide.html#editing-the-data-file)
+  * [Known Issues]({{ baseUrl }}/UserGuide.html#known-issues)
   * [FAQ]({{ baseUrl }}/UserGuide.html#faq) :expanded:
     * [General Usage]({{ baseUrl }}/UserGuide.html#general-usage)
     * [Commands and Features]({{ baseUrl }}/UserGuide.html#commands-and-features)
     * [Data Management]({{ baseUrl }}/UserGuide.html#data-management)
     * [Trouble Shooting]({{ baseUrl }}/UserGuide.html#trouble-shooting)
-  * [Known Issues]({{ baseUrl }}/UserGuide.html#known-issues)
   * [Command Summary]({{ baseUrl }}/UserGuide.html#command-summary)
 * [Developer Guide]({{ baseUrl }}/DeveloperGuide.html) :expanded:
   * [Acknowledgements]({{ baseUrl }}/DeveloperGuide.html#acknowledgements)
@@ -67,6 +66,7 @@
   * [Implementation]({{ baseUrl }}/DeveloperGuide.html#implementation)
   * [Documentation, logging, testing, configuration, dev-ops]({{ baseUrl }}/DeveloperGuide.html#documentation-logging-testing-configuration-dev-ops)
   * [Appendix: Requirements]({{ baseUrl }}/DeveloperGuide.html#appendix-requirements)
+  * [Appendix: Planned Enhancements]({{ baseUrl }}/DeveloperGuide.html#appendix-planned-enhancements)
   * [Appendix: Instructions for manual testing]({{ baseUrl }}/DeveloperGuide.html#appendix-instructions-for-manual-testing)
 * [About Us]({{ baseUrl }}/AboutUs.html)
       </site-nav>
